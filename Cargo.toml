@@ -1,0 +1,5 @@
+[workspace]
+
+members = ['actix-auth', "jwt-lib"]
+
+resolver = "1"
