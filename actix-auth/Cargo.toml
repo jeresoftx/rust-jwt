@@ -13,3 +13,4 @@ jwt-lib = { path = "../jwt-lib" }
 dotenv = "0.15.0"
 mongodb = "2.8.2"
 serde = { version = "1.0.200", features = ["derive"] }
+argon2 = "0.5.3"
