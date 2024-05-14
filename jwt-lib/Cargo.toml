@@ -10,4 +10,4 @@ edition = "2021"
 chrono = "0.4.38"
 dotenv = "0.15.0"
 jsonwebtoken = "9.3.0"
-serde = { version = "1.0.200", features = ["derive"] }
+serde = { version = "1.0.201", features = ["derive"] }
